@@ -1,3 +1,7 @@
 Croissants
 Socks
+<<<<<<< HEAD
 Ost
+=======
+Nutella
+>>>>>>> b1913aaf96fa8b1a53afc43ff6deb331607d54b0
